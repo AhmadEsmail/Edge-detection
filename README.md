@@ -15,7 +15,7 @@ This script requires MATLAB.
 
 ## Example
 
-Please, look at result folder
+Please, look at output_folder
 
 ## License
 

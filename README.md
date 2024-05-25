@@ -1,4 +1,4 @@
-# MATLAB Edge Detection using Prewitt Operator
+# Edge Detection using Prewitt Operator
 
 This MATLAB script performs edge detection on images using the Prewitt operator and non-maximum suppression technique. It detects edges in both horizontal and vertical directions and then suppresses non-maximum pixels to obtain thin edges.
 
@@ -15,16 +15,10 @@ This script requires MATLAB.
 
 ## Example
 
-Here is an example of the edge detection output:
-
-![Edge Detection Output](example_output.png)
+Please, look at result folder
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE.
 
-## Acknowledgments
-
-- This script uses the Prewitt operator for edge detection.
-- Non-maximum suppression is used to thin the edges.
 
